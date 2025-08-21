@@ -1,4 +1,4 @@
-# 📊 Portfolio_data 🧠 
+# 📊 Portfolio 🧠 
 
 ## Bienvenido/a !!! Este es mi portfolio. Aquí agrupo mis trabajos en **Data Science (ds)** y **Data Analysis (da)**.
 
@@ -38,3 +38,46 @@
 
 
 ## 📊 Data Analysis (da)
+### <u> 1.  Analisis Comercial de E-145 Hogar y Construcción </u> 
+(https://github.com/DiegoFCd/E-145-Anlysis)
+
+[![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python)](https://www.python.org/)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tu_usuario/tu_repositorio/blob/main/RedNeuronalBasicaConCapasOcultas.ipynb)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+
+### 2.   Análisis Comercial Super Sano Y Fresco: 
+(https://github.com/DiegoFCd/Super-Sano-y-Fresco) <br>
+
+[![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python)](https://www.python.org/)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tu_usuario/tu_repositorio/blob/main/RedNeuronalBasicaConCapasOcultas.ipynb)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+
+### 3.   Análisis Comercial Super Tienda Easy: 
+(https://github.com/DiegoFCd/superTienda_analysis) <br>
+
+[![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python)](https://www.python.org/)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tu_usuario/tu_repositorio/blob/main/RedNeuronalBasicaConCapasOcultas.ipynb)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+
+### 4.   Análisis Comercial Consumo Contenido en Netflix : 
+(https://github.com/DiegoFCd/Netflix_Analysis) <br>
+
+[![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python)](https://www.python.org/)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-003366?logo=plotly&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![Sweetviz](https://img.shields.io/badge/Sweetviz-FF69B4?logo=python&logoColor=white)
+
+### 4.   Análisis Comercial de Google_Ads Para Hallar Oportunidades de Negocio : 
+(https://github.com/DiegoFCd/Google_Ads_Analysis) <br>
+
+[![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python)](https://www.python.org/)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-003366?logo=plotly&logoColor=white)
