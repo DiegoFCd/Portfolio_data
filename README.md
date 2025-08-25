@@ -81,3 +81,11 @@
 ![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-003366?logo=plotly&logoColor=white)
+
+### 5.   Análisis Comercial Supermercados Pronta: 
+(https://github.com/DiegoFCd/Pronta_Supermercados) <br>
+
+[![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python)](https://www.python.org/)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tu_usuario/tu_repositorio/blob/main/RedNeuronalBasicaConCapasOcultas.ipynb)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
