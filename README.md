@@ -1,13 +1,24 @@
 
 # 📊 Portfolio 🧠   [![Portfolio](https://img.shields.io/badge/Google%20Sites-Portfolio-blue?logo=google)](https://sites.google.com/view/portfolio-diego-camargo/inicio)
-
-## Bienvenido/a !!! Este es mi portfolio. Aquí agrupo mis trabajos en  **Data Analysis (da)**.
 <br>
 
+## Bienvenido/a !!! 
+
+## 🌐 Mi Portfolio Online  
+Aqui podés ver una versión más amigable y navegable de mis proyectos acá 👉 [Visitar Portfolio en Google Sites](https://sites.google.com/view/portfolio-diego-camargo/inicio)
+<br>
+<br>
+
+## 🧠 Mi Enfoque
+
+### Mis proyectos están orientados a:
+
+📈 Optimización de negocio
+📊 Análisis exploratorio de datos
+📉 Detección de oportunidades<br>
+<br>
 ## 🚀 Proyectos Destacados
 
-
-## 📊 Data Analysis (DA)
 ### <u> 1. Retail Sales Analysis de E-145 Hogar y Construcción </u> 
 * Identificación de productos de alta y baja rotación
 * Análisis de ventas por canal (Retail, Mayorista)
@@ -39,19 +50,19 @@
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python)](https://www.python.org/)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?logo=python&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-003366?logo=plotly&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 ![Sweetviz](https://img.shields.io/badge/Sweetviz-FF69B4?logo=python&logoColor=white)
 
-### 4.   Análisis Comercial de Google_Ads Para Hallar Oportunidades de Negocio : 
-(https://github.com/DiegoFCd/Google_Ads_Analysis) <br>
+### 4. Business Analysis de Google_Ads Para Hallar Oportunidades de Negocio :
+* Analisis de tendecias de busquedas de usuarios
+* Identificacion de nichos con potencial de ganancias
+* Desarrollo de informes con proyecciones sobre canpañas de marketing sobre dichos nichos y enfoque especifico sobre los mismos. 
+* 👉 Ver proyecto (https://github.com/DiegoFCd/Google_Ads_Analysis) <br>
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python)](https://www.python.org/)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?logo=python&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-003366?logo=plotly&logoColor=white)
+
 
 ### 5.   Análisis Comercial Supermercados Pronta: 
 (https://github.com/DiegoFCd/Pronta_Supermercados) <br>
@@ -63,5 +74,3 @@
 
 <br>
 
-## 🌐 Mi Portfolio Online  
-Podés ver una versión más amigable y navegable de mis proyectos acá 👉 [Visitar Portfolio en Google Sites](https://sites.google.com/view/portfolio-diego-camargo/inicio)
