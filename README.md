@@ -9,7 +9,7 @@ Podés ver una versión más amigable y navegable de mis proyectos acá 👉 [Vi
 ## Portfolio de Proyectos
 
 
-## 📊 Data Analysis (da)
+## 📊 Data Analysis (DA)
 ### <u> 1.  Analisis Comercial de E-145 Hogar y Construcción </u> 
 (https://github.com/DiegoFCd/E-145-Anlysis)
 
