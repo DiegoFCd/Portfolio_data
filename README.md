@@ -19,16 +19,19 @@ Aqui podés ver una versión más amigable y navegable de mis proyectos acá �
 <br>
 ## 🚀 Proyectos Destacados
 
-### <u> 1. Retail Sales Analysis de E-145 Hogar y Construcción </u> 
-* Identificación de productos de alta y baja rotación
-* Análisis de ventas por canal (Retail, Mayorista)
-* Recomendaciones para optimización de stock en secciones con mayor margen<br>
-* 👉 Ver proyecto (https://github.com/DiegoFCd/E-145-Anlysis)
+### <u> 1. Retail Sales Analysis Supermercados Pronta: 
+* Detección de locales con mayor venta
+* Identificación de Secciones con mayor aportes
+* Analisis ABC en productos
+* Aproach y analisis RFM de Clientes
+* Desarrollo de informe estratégico con hallazgos claves y recomendaciones imperativas  
+* 👉 Ver proyecto (https://github.com/DiegoFCd/Pronta_Supermercados) <br>
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python)](https://www.python.org/)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tu_usuario/tu_repositorio/blob/main/RedNeuronalBasicaConCapasOcultas.ipynb)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white) 
+
 
 ### 2. Retail Sales Analysis Super Sano Y Fresco:
 * Segmentación de clientes
@@ -64,8 +67,11 @@ Aqui podés ver una versión más amigable y navegable de mis proyectos acá �
 ![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
 
 
-### 5.   Análisis Comercial Supermercados Pronta: 
-(https://github.com/DiegoFCd/Pronta_Supermercados) <br>
+### 5. Retail Sales Analysis de E-145 Hogar y Construcción </u> 
+* Identificación de productos de alta y baja rotación
+* Análisis de ventas por canal (Retail, Mayorista)
+* Recomendaciones para optimización de stock en secciones con mayor margen<br>
+* 👉 Ver proyecto (https://github.com/DiegoFCd/E-145-Anlysis)
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python)](https://www.python.org/)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tu_usuario/tu_repositorio/blob/main/RedNeuronalBasicaConCapasOcultas.ipynb)
