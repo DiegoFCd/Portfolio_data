@@ -56,7 +56,7 @@ Aqui podés ver una versión más amigable y navegable de mis proyectos acá �
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 ![Sweetviz](https://img.shields.io/badge/Sweetviz-FF69B4?logo=python&logoColor=white)
 
-### 4. Business Analysis de Google_Ads Para Hallar Oportunidades de Negocio :
+### 4. Business Analysis de Google_Ads:
 * Analisis de tendecias de busquedas de usuarios
 * Identificacion de nichos con potencial de ganancias
 * Desarrollo de informes con proyecciones sobre canpañas de marketing sobre dichos nichos y enfoque especifico sobre los mismos. 
