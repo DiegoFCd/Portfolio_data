@@ -5,7 +5,7 @@
 ## Bienvenido/a !!! 
 
 ## 🌐 Mi Portfolio Online  
-Aqui podés ver una versión más amigable y navegable de mis proyectos acá 👉 [Visitar Portfolio en Google Sites](https://sites.google.com/view/portfolio-diego-camargo/inicio)
+Aqui podés ver una versión más amigable y navegable de mis proyectos podes visitar aca 👉 [Visitar Portfolio en Google Sites](https://sites.google.com/view/portfolio-diego-camargo/inicio)
 <br>
 <br>
 
