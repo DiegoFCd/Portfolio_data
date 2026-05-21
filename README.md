@@ -18,7 +18,7 @@ Aqui podés ver una versión más amigable y navegable de mis proyectos podes ha
 📉 Detección de oportunidades<br>
 <br>
 
-## 🚀 Proyectos Destacados (BI Analysis)
+## 🚀 Proyectos Destacados de BI Analysis
 
 ### <u> 1. Customer Churn Analysis & Retention Dashboard: 
 * Desarrollo de solución BI end-to-end para análisis de abandono de clientes
@@ -95,4 +95,31 @@ Aqui podés ver una versión más amigable y navegable de mis proyectos podes ha
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
 
 <br>
+
+## 🚀 Proyectos Destacados de 🤖 Machine Learning & Predictive Analytics
+
+### <u> 1. Customer Churn Prediction & Retention Modeling: 
+* Desarrollo de pipeline predictivo end-to-end para detección de abandono de clientes
+* Limpieza, transformación y validación de datos utilizando Pandas y Scikit-Learn
+* Feature engineering orientado a comportamiento de clientes y variables de retención
+* Aplicación de Regresión Logística para predicción de churn
+* Evaluación de métricas de clasificación (Accuracy, Precision, Recall y F1-Score)
+* Análisis de tradeoff entre precisión y recall para optimización del modelo
+* Interpretación de variables con mayor impacto sobre abandono de clientes
+* Storytelling analítico orientado a estrategias de retención y fidelización
+👉 Ver proyecto (LINK_REPO) <br>
+
+### <u> 2. Retail High-Value Customer Prediction:
+* Desarrollo de modelo predictivo orientado a detección de clientes de alto valor futuro
+* Construcción de pipeline de Machine Learning utilizando Pandas y Scikit-Learn
+* Aplicación de técnicas RFM y Feature Engineering sobre comportamiento transaccional
+* Implementación de validación temporal para prevención de data leakage
+* Transformación estratégica de problema de regresión CLV hacia clasificación de High-Value Customers
+* Manejo de desbalanceo de clases mediante class weighting y threshold tuning
+* Evaluación de métricas de clasificación y optimización Recall vs Precision
+* Interpretación de patrones de comportamiento asociados a clientes de alto valor
+👉 Ver proyecto (LINK_REPO)
+
+
+
 
