@@ -17,7 +17,8 @@ Aqui podés ver una versión más amigable y navegable de mis proyectos podes ha
 📊 Análisis exploratorio de datos
 📉 Detección de oportunidades<br>
 <br>
-## 🚀 Proyectos Destacados
+
+## 🚀 Proyectos Destacados (BI Analysis)
 
 ### <u> 1. Customer Churn Analysis & Retention Dashboard: 
 * Desarrollo de solución BI end-to-end para análisis de abandono de clientes
