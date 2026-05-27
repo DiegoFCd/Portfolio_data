@@ -109,6 +109,11 @@ Aqui podés ver una versión más amigable y navegable de mis proyectos podes ha
 * Storytelling analítico orientado a estrategias de retención y fidelización
 👉 Ver proyecto (LINK_REPO) <br>
 
+
+[![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python)](https://www.python.org/)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
+
 ### <u> 2. Retail High-Value Customer Prediction:
 * Desarrollo de modelo predictivo orientado a detección de clientes de alto valor futuro
 * Construcción de pipeline de Machine Learning utilizando Pandas y Scikit-Learn
@@ -118,8 +123,11 @@ Aqui podés ver una versión más amigable y navegable de mis proyectos podes ha
 * Manejo de desbalanceo de clases mediante class weighting y threshold tuning
 * Evaluación de métricas de clasificación y optimización Recall vs Precision
 * Interpretación de patrones de comportamiento asociados a clientes de alto valor
-👉 Ver proyecto (LINK_REPO)
+👉 Ver proyecto (LINK_REPO) <br>
 
+[![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python)](https://www.python.org/)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
 
 
 
