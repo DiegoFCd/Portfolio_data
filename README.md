@@ -1,8 +1,9 @@
 
-# 📊 Portfolio 🧠   [![Portfolio](https://img.shields.io/badge/Google%20Sites-Portfolio-blue?logo=google)](https://sites.google.com/view/portfolio-diego-camargo/inicio)
+# 📊 Business Intelligence & Predictive Analytics Portfolio 
+[![Portfolio](https://img.shields.io/badge/Google%20Sites-Portfolio-blue?logo=google)](https://sites.google.com/view/portfolio-diego-camargo/inicio)
+
 <br>
 
-## Bienvenido/a !!! 
 
 ## 🌐 Mi Portfolio Online  
 Aqui podés ver una versión más amigable y navegable de mis proyectos podes hacer click aca 👉 [Visitar Portfolio en Google Sites](https://sites.google.com/view/portfolio-diego-camargo/inicio)
@@ -107,7 +108,7 @@ Aqui podés ver una versión más amigable y navegable de mis proyectos podes ha
 * Análisis de tradeoff entre precisión y recall para optimización del modelo
 * Interpretación de variables con mayor impacto sobre abandono de clientes
 * Storytelling analítico orientado a estrategias de retención y fidelización
-👉 Ver proyecto (LINK_REPO) <br>
+👉 Ver proyecto (https://github.com/DiegoFCd/Customer-Churn-Prediction-Retention-Modeling-) <br>
 
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python)](https://www.python.org/)
