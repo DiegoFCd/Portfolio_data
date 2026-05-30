@@ -20,6 +20,7 @@ Aqui podés ver una versión más amigable y navegable de mis proyectos podes ha
 <br>
 
 ## 🚀 Proyectos Destacados de BI Analysis
+<br>
 
 ### <u> 1. Customer Churn Analysis & Retention Dashboard: 
 * Desarrollo de solución BI end-to-end para análisis de abandono de clientes
@@ -97,7 +98,11 @@ Aqui podés ver una versión más amigable y navegable de mis proyectos podes ha
 
 <br>
 
+---
+<br>
+
 ## 🚀 Proyectos Destacados de 🤖 Machine Learning & Predictive Analytics
+<br>
 
 ### <u> 1. Customer Churn Prediction & Retention Modeling: 
 * Desarrollo de pipeline predictivo end-to-end para detección de abandono de clientes
@@ -107,8 +112,8 @@ Aqui podés ver una versión más amigable y navegable de mis proyectos podes ha
 * Evaluación de métricas de clasificación (Accuracy, Precision, Recall y F1-Score)
 * Análisis de tradeoff entre precisión y recall para optimización del modelo
 * Interpretación de variables con mayor impacto sobre abandono de clientes
-* Storytelling analítico orientado a estrategias de retención y fidelización
-👉 Ver proyecto (https://github.com/DiegoFCd/Customer-Churn-Prediction-Retention-Modeling-) <br>
+* Storytelling analítico orientado a estrategias de retención y fidelización <br>
+* 👉 Ver proyecto (https://github.com/DiegoFCd/Customer-Churn-Prediction-Retention-Modeling-) <br>
 
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python)](https://www.python.org/)
@@ -123,8 +128,8 @@ Aqui podés ver una versión más amigable y navegable de mis proyectos podes ha
 * Transformación estratégica de problema de regresión CLV hacia clasificación de High-Value Customers
 * Manejo de desbalanceo de clases mediante class weighting y threshold tuning
 * Evaluación de métricas de clasificación y optimización Recall vs Precision
-* Interpretación de patrones de comportamiento asociados a clientes de alto valor
-👉 Ver proyecto (LINK_REPO) <br>
+* Interpretación de patrones de comportamiento asociados a clientes de alto valor <br>
+* 👉 Ver proyecto (https://github.com/DiegoFCd/Retail-High-Value-Customer-Prediction/tree/main) <br>
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python)](https://www.python.org/)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
