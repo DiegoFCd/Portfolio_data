@@ -1,13 +1,6 @@
 
 # 📊 Business Intelligence & Predictive Analytics Portfolio 
 [![Portfolio](https://img.shields.io/badge/Google%20Sites-Portfolio-blue?logo=google)](https://sites.google.com/view/portfolio-diego-camargo/inicio)
-
-<br>
-
-
-## 🌐 Mi Portfolio Online  
-Aqui podés ver una versión más amigable y navegable de mis proyectos podes hacer click aca 👉 [Visitar Portfolio en Google Sites](https://sites.google.com/view/portfolio-diego-camargo/inicio)
-<br>
 <br>
 
 ## 🧠 Mi Enfoque
