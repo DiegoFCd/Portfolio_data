@@ -130,4 +130,36 @@
 ![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
 
 
+<br>
+
+---
+--- 
+
+# 🧠 Featured LLM Applications
+
+These projects represent my transition from Machine Learning to AI Applications, exploring how Large Language Models can be integrated into practical solutions.
+
+☑ Prompt Engineering
+
+☑ LLM Integration
+
+☑ AI Application Development
+<br>
+
+
+### 1. Personalized Concept Explainer (Gemini + LangChain)
+* Development of an end-to-end LLM application for personalized learning
+* Prompt engineering with context-aware user profiles
+* Integration of Gemini 2.5 Flash using LangChain
+* Dynamic prompt construction with PromptTemplate
+* Interactive user interface built with Gradio
+* Secure credential management with dotenv and environment variables
+* Adaptive explanations based on user background and objectives
+* Practical implementation of LLM orchestration and AI application development<br>
+* 👉 View Project (https://github.com/DiegoFCd/Personalized-Concept-Explainer-LLM-App/tree/main)
+
+[![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python)](https://www.python.org/)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
+
 
